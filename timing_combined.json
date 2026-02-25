@@ -1,0 +1,260 @@
+{
+  "epoch_times": [
+    {
+      "epoch": 1,
+      "images_per_second": 297.00,
+      "time_seconds": 67.340067
+    },
+    {
+      "epoch": 2,
+      "images_per_second": 495.69,
+      "time_seconds": 40.347395
+    },
+    {
+      "epoch": 3,
+      "images_per_second": 492.46,
+      "time_seconds": 40.612435
+    },
+    {
+      "epoch": 4,
+      "images_per_second": 494.92,
+      "time_seconds": 40.410594
+    },
+    {
+      "epoch": 5,
+      "images_per_second": 497.28,
+      "time_seconds": 40.218709
+    },
+    {
+      "epoch": 6,
+      "images_per_second": 497.26,
+      "time_seconds": 40.220315
+    },
+    {
+      "epoch": 7,
+      "images_per_second": 496.78,
+      "time_seconds": 40.259269
+    },
+    {
+      "epoch": 8,
+      "images_per_second": 494.42,
+      "time_seconds": 40.451438
+    },
+    {
+      "epoch": 9,
+      "images_per_second": 496.40,
+      "time_seconds": 40.290089
+    },
+    {
+      "epoch": 10,
+      "images_per_second": 490.28,
+      "time_seconds": 40.792996
+    },
+    {
+      "epoch": 11,
+      "images_per_second": 489.70,
+      "time_seconds": 40.841332
+    },
+    {
+      "epoch": 12,
+      "images_per_second": 494.75,
+      "time_seconds": 40.424457
+    },
+    {
+      "epoch": 13,
+      "images_per_second": 494.76,
+      "time_seconds": 40.423620
+    },
+    {
+      "epoch": 14,
+      "images_per_second": 491.26,
+      "time_seconds": 40.711495
+    },
+    {
+      "epoch": 15,
+      "images_per_second": 495.39,
+      "time_seconds": 40.372232
+    },
+    {
+      "epoch": 16,
+      "images_per_second": 498.07,
+      "time_seconds": 40.155006
+    },
+    {
+      "epoch": 17,
+      "images_per_second": 498.10,
+      "time_seconds": 40.152579
+    },
+    {
+      "epoch": 18,
+      "images_per_second": 497.09,
+      "time_seconds": 40.234098
+    },
+    {
+      "epoch": 19,
+      "images_per_second": 497.08,
+      "time_seconds": 40.234900
+    },
+    {
+      "epoch": 20,
+      "images_per_second": 493.40,
+      "time_seconds": 40.535083
+    },
+    {
+      "epoch": 21,
+      "images_per_second": 492.06,
+      "time_seconds": 40.645450
+    },
+    {
+      "epoch": 22,
+      "images_per_second": 495.37,
+      "time_seconds": 40.373862
+    },
+    {
+      "epoch": 23,
+      "images_per_second": 497.76,
+      "time_seconds": 40.179902
+    },
+    {
+      "epoch": 24,
+      "images_per_second": 493.81,
+      "time_seconds": 40.499787
+    },
+    {
+      "epoch": 25,
+      "images_per_second": 496.83,
+      "time_seconds": 40.255218
+    },
+    {
+      "epoch": 26,
+      "images_per_second": 498.38,
+      "time_seconds": 40.130057
+    },
+    {
+      "epoch": 27,
+      "images_per_second": 494.74,
+      "time_seconds": 40.425274
+    },
+    {
+      "epoch": 28,
+      "images_per_second": 497.35,
+      "time_seconds": 40.213123
+    },
+    {
+      "epoch": 29,
+      "images_per_second": 495.67,
+      "time_seconds": 40.349002
+    },
+    {
+      "epoch": 30,
+      "images_per_second": 494.49,
+      "time_seconds": 40.445600
+    },
+    {
+      "epoch": 31,
+      "images_per_second": 491.37,
+      "time_seconds": 40.700490
+    },
+    {
+      "epoch": 32,
+      "images_per_second": 492.53,
+      "time_seconds": 40.606664
+    },
+    {
+      "epoch": 33,
+      "images_per_second": 495.38,
+      "time_seconds": 40.373046
+    },
+    {
+      "epoch": 34,
+      "images_per_second": 495.47,
+      "time_seconds": 40.365723
+    },
+    {
+      "epoch": 35,
+      "images_per_second": 494.08,
+      "time_seconds": 40.479256
+    },
+    {
+      "epoch": 36,
+      "images_per_second": 492.45,
+      "time_seconds": 40.613260
+    },
+    {
+      "epoch": 37,
+      "images_per_second": 493.46,
+      "time_seconds": 40.530641
+    },
+    {
+      "epoch": 38,
+      "images_per_second": 498.24,
+      "time_seconds": 40.141305
+    },
+    {
+      "epoch": 39,
+      "images_per_second": 495.05,
+      "time_seconds": 40.400000
+    },
+    {
+      "epoch": 40,
+      "images_per_second": 491.09,
+      "time_seconds": 40.725956
+    },
+    {
+      "epoch": 41,
+      "images_per_second": 493.82,
+      "time_seconds": 40.498157
+    },
+    {
+      "epoch": 42,
+      "images_per_second": 494.09,
+      "time_seconds": 40.478051
+    },
+    {
+      "epoch": 43,
+      "images_per_second": 497.00,
+      "time_seconds": 40.241449
+    },
+    {
+      "epoch": 44,
+      "images_per_second": 493.92,
+      "time_seconds": 40.491788
+    },
+    {
+      "epoch": 45,
+      "images_per_second": 490.35,
+      "time_seconds": 40.787192
+    },
+    {
+      "epoch": 46,
+      "images_per_second": 496.99,
+      "time_seconds": 40.242258
+    },
+    {
+      "epoch": 47,
+      "images_per_second": 490.15,
+      "time_seconds": 40.803835
+    },
+    {
+      "epoch": 48,
+      "images_per_second": 495.56,
+      "time_seconds": 40.358382
+    },
+    {
+      "epoch": 49,
+      "images_per_second": 494.71,
+      "time_seconds": 40.428332
+    },
+    {
+      "epoch": 50,
+      "images_per_second": 493.47,
+      "time_seconds": 40.529859
+    }
+  ],
+  "summary_for_all_50_epochs": {
+    "number_of_epochs_calculated": 50,
+    "total_time_seconds": 2049.311490,
+    "average_time_per_epoch_seconds": 40.986230
+  },
+  "calculation_notes": "Times are calculated as 20000 images / (img/s). All 50 epochs are included in the summary statistics based on the provided log data."
+}
