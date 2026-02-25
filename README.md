@@ -1,6 +1,6 @@
 # GradCAM Pet Sentiment Analyzer
 
-A Streamlit app for visualizing what a deep learning model looks at when predicting pet emotions, using multiple Class Activation Map (CAM) methods and ViT attention rollout.
+A Streamlit app for visualizing what a deep learning model looks at when predicting labels for visual data, using multiple Class Activation Map (CAM) methods and ViT attention rollout.
 
 ## What is GradCAM?
 
